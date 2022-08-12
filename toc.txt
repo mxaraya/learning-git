@@ -1,2 +1,3 @@
 THis is a new branch called bugfix
+editing on new branch max
 
